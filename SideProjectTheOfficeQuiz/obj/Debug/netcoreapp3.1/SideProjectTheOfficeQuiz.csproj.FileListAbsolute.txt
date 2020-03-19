@@ -1,0 +1,11 @@
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\bin\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.exe
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\bin\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.deps.json
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\bin\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.runtimeconfig.json
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\bin\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.runtimeconfig.dev.json
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\bin\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.dll
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\bin\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.pdb
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\obj\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.csprojAssemblyReference.cache
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\obj\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.AssemblyInfoInputs.cache
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\obj\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.AssemblyInfo.cs
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\obj\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.dll
+C:\Users\Nimbus410\source\repos\SideProjectTheOfficeQuiz\SideProjectTheOfficeQuiz\obj\Debug\netcoreapp3.1\SideProjectTheOfficeQuiz.pdb
